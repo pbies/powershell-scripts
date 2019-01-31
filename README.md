@@ -22,7 +22,7 @@ Usually no tests included.
 
 ## Purpose
 
-Learn and use.
+Learn, use and have fun.
 
 ## Built With
 
