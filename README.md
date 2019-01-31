@@ -1,16 +1,16 @@
-# mass-linux
-Powershell scripts to download currency exchange prices to/from PLN
+# powershell-scripts
+Various Powershell scripts
 
 ## Getting Started
 
 1. Download the script to empty folder
 2. Run Powershell
 3. Go to script folder
-4. Run "script_name.ps1 > output_filename.csv"
+4. Run "script_name.ps1" with eventually added options or folders/files
 
 ### Prerequisites
 
-Windows + Powershell + Internet connection.
+Windows + Powershell + sometimes Internet connection.
 
 ### Installing
 
@@ -18,11 +18,11 @@ Download is enough.
 
 ## Running the tests
 
-No tests enclosed.
+Usually no tests included.
 
 ## Purpose
 
-To create a Dygraph chart with currencies prices.
+Learn and use.
 
 ## Built With
 
