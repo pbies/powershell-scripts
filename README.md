@@ -8,11 +8,11 @@ Various Powershell scripts
 3. Go to script folder
 4. Run "script_name.ps1" with eventually added options or folders/files
 
-### Prerequisites
+## Prerequisites
 
 Windows + Powershell + sometimes Internet connection.
 
-### Installing
+## Installing
 
 Download is enough.
 
