@@ -1,4 +1,4 @@
-# Get_currencies_PLN.ps1 (C) 2018 Piotr Biesiada
+# Get_currencies_PLN.ps1 (C) 2019 Piotr Biesiada
 # powershell script download NBP Euro EUR USD GBP CHF currency to from PLN prices currency exchange
 # skrypt ściągnąć waluty sprzedaż kupno ceny kursy wymiana walut
 # Dygraph Dygraphs
