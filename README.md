@@ -16,6 +16,8 @@ powershell-scripts
 
 		Windows + Powershell + sometimes Internet connection.
 
+		https://aka.ms/powershell
+
 	Installing
 	----------
 
