@@ -1,58 +1,69 @@
-# powershell-scripts
-Various Powershell scripts
+powershell-scripts
+==================
 
-## Getting Started
+		Various Powershell scripts
 
-1. Download the script to empty folder
-2. Run Powershell
-3. Go to script folder
-4. Run "script_name.ps1" with eventually added options or folders/files
+	Getting Started
+	---------------
 
-## Prerequisites
+	1. Download the script to empty folder
+	2. Run Powershell
+	3. Go to script folder
+	4. Run "script_name.ps1" with eventually added options or folders/files
 
-Windows + Powershell + sometimes Internet connection.
+	Prerequisites
+	-------------
 
-## Installing
+		Windows + Powershell + sometimes Internet connection.
 
-Download is enough.
+	Installing
+	----------
 
-## Running the tests
+		Download is enough.
 
-Usually no tests included.
+	Running the tests
+	-----------------
 
-## Purpose
+		Usually no tests included.
 
-Learn, use and have fun.
+	Purpose
+	-------
 
-## Built With
+		Learn, use and have fun.
 
-[Sublime Text](https://www.sublimetext.com/)
+	Built With
+	----------
 
-## Contributing
+		Sublime Text
 
-Edits are allowed on separate branches.
+	Contributing
+	------------
 
-## Versioning
+		Edits are allowed on separate branches.
 
-When there will be new version, the old one will be overwritten.
+	Versioning
+	----------
 
-## Authors
+		When there will be new version, the old one will be overwritten.
 
-* **Piotr Biesiada** - *Initial work*
+	Authors
+	-------
 
-[github](https://github.com/pbies)
+		Piotr Biesiada - Initial work
 
-[homepage](https://pbies.net/)
+	License
+	-------
 
-## License
+		This project is licensed under the GNU GENERAL PUBLIC LICENSE - see
+		the LICENSE file for details.
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
-That means you must fulfill these requirements:
-1. your project have the same license
-2. you mention the original author (me)
-3. can't use scripts in commercial products if they are not free
-4. you can freely modify and use this project for personal usage
+		That means you must fulfill these requirements:
+		1. your project have the same license
+		2. you mention the original author (me)
+		3. can't use scripts in commercial products if they are not free
+		4. you can freely modify and use this project for personal usage
 
-## Acknowledgments
+	Acknowledgments
+	---------------
 
-If you like my work please share your opinion with me!
+		If you like my work please share your opinion with me!
