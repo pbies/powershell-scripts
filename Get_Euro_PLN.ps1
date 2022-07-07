@@ -1,4 +1,4 @@
-# Get_Euro_PLN.ps1 (C) 2021 Piotr Biesiada
+# Get_Euro_PLN.ps1
 # powershell script download NBP Euro EUR currency to from PLN prices currency exchange
 # skrypt ściągnąć waluty sprzedaż kupno ceny kursy wymiana walut
 # Dygraph Dygraphs

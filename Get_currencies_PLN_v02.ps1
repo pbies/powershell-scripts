@@ -1,4 +1,3 @@
-# (C) 2021 Piotr Biesiada
 # powershell script download NBP Euro EUR USD GBP CHF NOK currency to from PLN prices currency exchange
 # skrypt ściągnąć waluty sprzedaż kupno ceny kursy wymiana walut
 # Dygraph Dygraphs
